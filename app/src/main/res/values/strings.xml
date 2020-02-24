@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MaTaxy Rider</string>
+    <string name="looking_for_the_rider_app">LOOKING FOR THE DRIVER APP?</string>
+    <string name="drive_your_way">Drive your way!</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="register">REGISTER</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="fullname">Fullname</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="title_activity_welcome">Map</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>

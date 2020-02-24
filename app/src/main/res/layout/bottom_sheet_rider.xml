@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:cardElevation="10dp">
+    
+    <LinearLayout
+        android:orientation="vertical"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:text="Add your package name and SHA-1 signing-certificate fingerprint to restrict usage to your Android apps
+Get the package name from your AndroidManifest.xml file. Then use the following command to get the fingerprint:"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:text="Add your package name and SHA-1 signing-certificate fingerprint to restrict usage to your Android apps
+Get the package name from your AndroidManifest.xml file. Then use the following command to get the fingerprint:"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:text="Add your package name and SHA-1 signing-certificate fingerprint to restrict usage to your Android apps
+Get the package name from your AndroidManifest.xml file. Then use the following command to get the fingerprint:"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>
